@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e47b91c-79fb-43a6-86f5-16d8a3f4c70a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="23cf0d19-d7e2-4abc-b8a5-b5786c52ac32" />
+  <component name="ProjectId" id="1apP7mevBJjd8EddbEKoeowLjnI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e47b91c-79fb-43a6-86f5-16d8a3f4c70a" name="Default Changelist" comment="" />
+      <created>1587429396576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587429396576</updated>
+      <workItem from="1587429406097" duration="179000" />
+      <workItem from="1587429671750" duration="261000" />
+      <workItem from="1587429972399" duration="3030000" />
+      <workItem from="1587446419731" duration="417000" />
+    </task>
+    <task id="LOCAL-00001" summary="Data Startup">
+      <created>1587444955309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587444955309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Data Startup">
+      <created>1587446453668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587446453668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Startup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Startup" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587431512201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587431512201" />
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1587446453456">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587446453456" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1587432428524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587432428524" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center" timestamp="1587432428521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587432428521" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left" timestamp="1587432428520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587432428520" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right" timestamp="1587432428523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587432428523" />
+    <state x="221" y="73" width="1109" height="722" key="SettingsEditor" timestamp="1587430274516">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="221" y="73" width="1109" height="722" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1587430274516" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Twitter_Database$TwitterListener.coverage" NAME="TwitterListener Coverage Results" MODIFIED="1587432394051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
