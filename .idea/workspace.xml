@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e47b91c-79fb-43a6-86f5-16d8a3f4c70a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MongoGUI_LRUcaching-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MongoGUI_LRUcaching-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MongoGUI_LRUcaching.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache_setup_user.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LRUCache.py" beforeDir="false" afterPath="$PROJECT_DIR$/LRUCache.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <workItem from="1587446419731" duration="417000" />
       <workItem from="1587446844159" duration="1338000" />
       <workItem from="1587687316614" duration="1201000" />
-      <workItem from="1587781855645" duration="1971000" />
+      <workItem from="1587781855645" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="Data Startup">
       <created>1587444955309</created>
@@ -101,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587947319438</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="GUI using LRU cache">
+      <created>1588039307358</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588039307360</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,17 +126,18 @@
     <MESSAGE value="Data Startup" />
     <MESSAGE value="April 24th" />
     <MESSAGE value="add mongodb index" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mongodb index" />
+    <MESSAGE value="GUI using LRU cache" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI using LRU cache" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587431512201">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587431512201" />
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1587947319207">
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1588039307127">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587947319207" />
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588039307127" />
     <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1587432428524">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
