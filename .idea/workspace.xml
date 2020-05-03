@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e47b91c-79fb-43a6-86f5-16d8a3f4c70a" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;MongoAtlasSetup.ipynb">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="6e47b91c-79fb-43a6-86f5-16d8a3f4c70a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MongoAtlasSetup-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MongoAtlasSetup-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MongoAtlasSetup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MongoAtlasSetup.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweetuser_eff.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tweetuser_eff.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
       <workItem from="1587446844159" duration="1338000" />
       <workItem from="1587687316614" duration="1201000" />
       <workItem from="1587781855645" duration="2833000" />
+      <workItem from="1588465104854" duration="560000" />
     </task>
     <task id="LOCAL-00001" summary="Data Startup">
       <created>1587444955309</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588464051320</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;MongoAtlasSetup.ipynb">
+      <created>1588465118963</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588465118963</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,10 +159,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587431512201" />
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1588464133728">
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2" timestamp="1588465118662">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588464133728" />
+    <state x="297" y="23" width="846" height="822" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588465118662" />
     <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1587432428524">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
